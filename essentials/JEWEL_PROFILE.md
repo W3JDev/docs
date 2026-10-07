@@ -76,8 +76,6 @@ Enterprise Impact:
                 explainable classification UI, LDAP/OAuth2 secured
   PunchClock:   LHDN 2025 HR OS → 95% payroll time
                 reduction, 15,000+ daily users
-  VineAI/Flair: AI recommendation engines →
-                300% ROI, +35% avg ticket size
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE TRACE FRAMEWORK (Proprietary IP)
