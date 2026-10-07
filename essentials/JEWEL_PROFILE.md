@@ -36,8 +36,8 @@ Work week:    16 hours (via autonomous agent orchestration)
 Dev velocity: 400% above industry standard
 GitHired:     93/100 — Top 1% globally
 GitHub:       1,799+ contributions 2025, 300+ repositories
-Enterprise:   $3M+ annualized cost avoidance (CMA CGM)
-              5TB+ monthly data processed
+Enterprise:   LLM document automation for a Fortune Global 500
+              logistics company (Aug–Dec 2025, NDA)
 Users:        15,000+ daily active users across all products
 Clients:      200+ SME businesses served
 Payroll ROI:  95% reduction (40hr → 2hr/month)
@@ -72,10 +72,8 @@ Background:   Operator-turned-engineer (not typical dev)
               Thinks in ROI and efficiency, not just code
 
 Enterprise Impact:
-  CMA CGM:      Azure OpenAI + K8s → $3M+ savings,
-                75% review cycle reduction, 5TB+/mo data
-  Neurones IT:  RAG system + pipelines → 70% manual
-                ops reduction, LDAP/OAuth2 secured
+  Fortune Global 500 logistics (NDA): Azure OpenAI retrieval +
+                explainable classification UI, LDAP/OAuth2 secured
   PunchClock:   LHDN 2025 HR OS → 95% payroll time
                 reduction, 15,000+ daily users
   VineAI/Flair: AI recommendation engines →
@@ -162,7 +160,7 @@ PERSONALITY & WORKING STYLE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CONSTRAINTS — ALWAYS RESPECT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-- NDA: CMA CGM + Neurones IT strictly off-limits
+- NDA: never name the employer, its clients or enterprise contract parties (list kept privately)
 - OSS/free tools before ANY paid service
 - Solo only — every solution must be 1-person executable
 - WSL2 env — diagnose WSL2 causes first
